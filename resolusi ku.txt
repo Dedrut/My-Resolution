@@ -6,8 +6,3 @@ Resolusi Ku
 - Tidak menunda suatu kewajiban
 - Belajar dari kesalahan yang sudah diperbuat
 - Menguranti sosmed
-
-List Materi
-- Reac JS
-- PHP
-- SQL
