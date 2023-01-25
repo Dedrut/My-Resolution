@@ -11,3 +11,6 @@ List Materi
 - Reac JS
 - PHP
 - SQL
+- Node JS
+- Bootstrap
+- Laravel
